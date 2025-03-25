@@ -15,5 +15,6 @@ This is a simple **Tic-Tac-Toe** game, showcasing my learning of basic web devel
 - JavaScript  
 
 ## How to Run  
-Clone this repository:  
+site is live at 
+https://kiransai-5c5.github.io/TIC_TAC_TOE_GAME/
 
